@@ -1,8 +1,8 @@
-import _1000_1999._1071_Greatest_Common_Divisor_of_Strings;
+import _1000_1999._1431_Kids_With_the_Greatest_Number_of_Candies;
 
 public class Main {
     public static void main(String[] args) {
 
-        _1071_Greatest_Common_Divisor_of_Strings.show("ABC", "ABC");
+        _1431_Kids_With_the_Greatest_Number_of_Candies.show(new int[]{1, 3, 4, 4}, 2);
     }
 }
