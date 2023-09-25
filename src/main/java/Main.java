@@ -1,8 +1,8 @@
-import _1000_1999._1920_Build_Array_from_Permutation;
+import _1000_1999._1768_Merge_Strings_Alternately;
 
 public class Main {
     public static void main(String[] args) {
 
-        _1920_Build_Array_from_Permutation.show(new int[]{0, 2, 1, 5, 3, 4});
+        _1768_Merge_Strings_Alternately.show("abcd", "ef");
     }
 }
