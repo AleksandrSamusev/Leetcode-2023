@@ -1,9 +1,9 @@
-import _1_999._300_399._389_Find_the_Difference;
+import _1000_1999._1929_Concatenation_of_Array;
 
 public class Main {
     public static void main(String[] args) {
 
-        _389_Find_the_Difference.show("abcd", "abcf");
+        _1929_Concatenation_of_Array.show(new int[]{1, 2, 3, 4});
     }
 
 }
