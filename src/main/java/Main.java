@@ -1,10 +1,9 @@
 
-import _1_999._400_499._443_String_Compression;
+import _1_999._200_299._283_Move_Zeroes;
 
 public class Main {
     public static void main(String[] args) {
 
-        _443_String_Compression.show(new char[]{'a', 'a', 'a', 'a', 'a', 'a', 'a',
-                'a', 'a', 'a', 'a', 'a', 'b', 'b', 'c', 'c', 'c'});
+        _283_Move_Zeroes.show(new int[]{0,1,0,3,12});
     }
 }
