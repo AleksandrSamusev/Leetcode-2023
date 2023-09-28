@@ -1,8 +1,9 @@
-import _1_999._200_299._238_Product_of_Array_Except_Self;
+
+import _1_999._300_399._334_Increasing_Triplet_Subsequence;
 
 public class Main {
     public static void main(String[] args) {
 
-        _238_Product_of_Array_Except_Self.show(new int[]{2,5,7,10});
+        _334_Increasing_Triplet_Subsequence.show(new int[]{20,100,10,12,5,13});
     }
 }
