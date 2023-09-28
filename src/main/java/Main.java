@@ -1,8 +1,8 @@
-import _1_999._100_200._151_Reverse_Words_in_a_String;
+import _1_999._200_299._238_Product_of_Array_Except_Self;
 
 public class Main {
     public static void main(String[] args) {
 
-        _151_Reverse_Words_in_a_String.show("hello world from Serbia");
+        _238_Product_of_Array_Except_Self.show(new int[]{2,5,7,10});
     }
 }
