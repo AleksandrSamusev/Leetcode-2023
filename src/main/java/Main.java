@@ -1,7 +1,7 @@
-import _1000_1999._1400_1499._1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length;
+import _1000_1999._1000_1099._1004_Max_Consecutive_Ones_3;
 
 public class Main {
     public static void main(String[] args) {
-        _1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.show("abciiidef", 3);
+        _1004_Max_Consecutive_Ones_3.show(new int[]{1,1,1,0,0,0,1,1,1,1,0}, 2);
     }
 }
