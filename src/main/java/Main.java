@@ -1,7 +1,7 @@
-import _1000_1999._1400_1499._1493_Longest_Subarray_of_1s_After_Deleting_One_Element;
+import _1000_1999._1700_1799._1732_Find_the_Highest_Altitude;
 
 public class Main {
     public static void main(String[] args) {
-        _1493_Longest_Subarray_of_1s_After_Deleting_One_Element.show(new int[]{0,1,1,1,0,1,1,0,1});
+        _1732_Find_the_Highest_Altitude.show(new int[]{-4,-3,-2,-1,4,3,2});
     }
 }

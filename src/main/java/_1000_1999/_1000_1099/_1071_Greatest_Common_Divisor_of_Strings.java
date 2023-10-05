@@ -1,4 +1,4 @@
-package _1000_1999;
+package _1000_1999._1000_1099;
 
 public class _1071_Greatest_Common_Divisor_of_Strings {
 
