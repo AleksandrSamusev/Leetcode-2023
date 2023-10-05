@@ -1,7 +1,7 @@
-import _1000_1999._1700_1799._1732_Find_the_Highest_Altitude;
+import _1_999._700_799._724_Find_Pivot_Index;
 
 public class Main {
     public static void main(String[] args) {
-        _1732_Find_the_Highest_Altitude.show(new int[]{-4,-3,-2,-1,4,3,2});
+        _724_Find_Pivot_Index.show(new int[]{1,7,3,6,5,6});
     }
 }
