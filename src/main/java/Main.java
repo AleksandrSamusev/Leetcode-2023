@@ -1,7 +1,8 @@
-import _1000_1999._1200_1299._1207_Unique_Number_of_Occurrences;
+
+import _1000_1999._1600_1699._1657_Determine_if_Two_Strings_Are_Close;
 
 public class Main {
     public static void main(String[] args) {
-        _1207_Unique_Number_of_Occurrences.show(new int[]{-3,0,1,-3,1,1,1,-3,10,0});
+        _1657_Determine_if_Two_Strings_Are_Close.show("abc", "bca");
     }
 }
