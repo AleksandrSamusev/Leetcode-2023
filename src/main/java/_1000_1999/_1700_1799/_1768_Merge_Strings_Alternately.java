@@ -1,4 +1,4 @@
-package _1000_1999;
+package _1000_1999._1700_1799;
 
 public class _1768_Merge_Strings_Alternately {
 

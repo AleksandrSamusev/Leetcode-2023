@@ -1,7 +1,7 @@
-import _1_999._700_799._724_Find_Pivot_Index;
+import _2000_2999._2200_2299._2215_Find_the_Difference_of_Two_Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        _724_Find_Pivot_Index.show(new int[]{1,7,3,6,5,6});
+        _2215_Find_the_Difference_of_Two_Arrays.show(new int[]{1,2,3,3}, new int[]{1,1,2,2});
     }
 }
