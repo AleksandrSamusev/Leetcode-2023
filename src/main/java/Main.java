@@ -1,7 +1,7 @@
-import _2000_2999._2200_2299._2215_Find_the_Difference_of_Two_Arrays;
+import _1000_1999._1200_1299._1207_Unique_Number_of_Occurrences;
 
 public class Main {
     public static void main(String[] args) {
-        _2215_Find_the_Difference_of_Two_Arrays.show(new int[]{1,2,3,3}, new int[]{1,1,2,2});
+        _1207_Unique_Number_of_Occurrences.show(new int[]{-3,0,1,-3,1,1,1,-3,10,0});
     }
 }
