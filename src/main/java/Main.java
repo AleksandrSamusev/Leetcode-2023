@@ -1,7 +1,7 @@
-import _2000_2999._2300_2399._2390_Removing_Stars_From_a_String;
+import _1_999._700_799._735_Asteroid_Collision;
 
 public class Main {
     public static void main(String[] args) {
-        _2390_Removing_Stars_From_a_String.show("leet**cod*e");
+        _735_Asteroid_Collision.show(new int[]{-2,-1,1,2});
     }
 }
