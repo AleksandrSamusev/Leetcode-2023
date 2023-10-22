@@ -1,9 +1,9 @@
 
-import _1_999._600_699._649_Dota2_Senate;
-import _1_999._900_999._933_Number_of_Recent_Calls;
+import _2000_2999._2000_2099._2095._2095_Delete_the_Middle_Node_of_a_Linked_List;
+
 
 public class Main {
     public static void main(String[] args) {
-        _649_Dota2_Senate.show("DR");
+        _2095_Delete_the_Middle_Node_of_a_Linked_List.show();
     }
 }
